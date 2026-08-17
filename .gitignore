@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# === 公開禁止 (private-only) ===
+# プラグインビルドに必要な SDK（aviutl2_sdk/）は公開しない。README参照。
+aviutl2_sdk/
+build/
+release/
+
+# エディタ設定（公開しない）
+.cursor/
